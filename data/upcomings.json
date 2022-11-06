@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "5c6b255ee77be063f0690be6"
+  },
+  "description": "<p>for sax, violin, ondes martenot, percussion + live electronics<br /><br /><br />Commissioned with funds from the Canada Council for the Arts.<br /><br />Co-produced by <a href=\"https://innovationsenconcert.ca/\" target=\"_blank\">Innovations En Concert</a> at <a href=\"https://casadelpopolo.com/events/la-sala-rossa190000buy-tickets/\" target=\"_blank\">La Sala Rossa</a> (Montreal, Canada)</p>",
+  "title": "NEW WORK",
+  "date": {
+    "$date": {
+      "$numberLong": "1569956400000"
+    }
+  },
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550709982/ucrorxg4dewgelzkyerf.png",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550709982/ucrorxg4dewgelzkyerf.png",
+    "resource_type": "image",
+    "format": "png",
+    "height": 888,
+    "width": 2196,
+    "signature": "289ac16468aba020a6b6b28353491ee67be8cebe",
+    "version": 1550709982,
+    "public_id": "ucrorxg4dewgelzkyerf"
+  },
+  "__v": 0,
+  "link": "http://www.nohaybanda.ca/description.html"
+},{
+  "_id": {
+    "$oid": "5c6b25dfe77be063f0690be8"
+  },
+  "description": "<p>for 4 percussionists + live electronics<br /><br /><br />Co-presented by <a href=\"https://www.levivier.ca/en\" target=\"_blank\">Groupe Le Vivier</a> and <a href=\"https://www.legesu.com/salles-et-fiches-techniques/\" target=\"_blank\">Espace Aline-Letendre</a> at the Gesu <br /><br />Commissioned with funds from the Canada Council for the Arts and Le Conseil des arts et des lettres du Qu&eacute;bec.</p>",
+  "title": "NEW LARGE-SCALE WORK",
+  "date": {
+    "$date": {
+      "$numberLong": "1583049600000"
+    }
+  },
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550548788/vax3gnxepkamr8u2oidd.jpg",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550548788/vax3gnxepkamr8u2oidd.jpg",
+    "resource_type": "image",
+    "format": "jpg",
+    "height": 1818,
+    "width": 3233,
+    "signature": "d1344ab7f7667fc17844880ea7a2a92c570b6a3c",
+    "version": 1550548788,
+    "public_id": "vax3gnxepkamr8u2oidd"
+  },
+  "__v": 0,
+  "link": "http://www.architekpercussion.com/"
+},{
+  "_id": {
+    "$oid": "5c6b34925e4c9564d4184b12"
+  },
+  "description": "<p>in collaboration with theatre creator <a href=\"http://www.tarragontheatre.com/contributor/jenna-harris/\" target=\"_blank\">Jenna Harris</a>&nbsp;at the <a href=\"http://theatrecentre.org/\" target=\"_blank\">Theatre Centre</a> (Toronto, Canada)</p>\r\n<p><br />Commissioned with funds from the Canada Council for the Arts and the Ontario Arts Council.</p>",
+  "title": "NEW MULTIMEDIA WORK",
+  "date": {
+    "$date": {
+      "$numberLong": "1559372400000"
+    }
+  },
+  "image": {
+    "public_id": "kxvl70vziavgarn9hxkt",
+    "version": 1550529682,
+    "signature": "368aab66e1c66f8baf5b077a0586c5c2d5b8b3b7",
+    "width": 1000,
+    "height": 444,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550529682/kxvl70vziavgarn9hxkt.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550529682/kxvl70vziavgarn9hxkt.jpg"
+  },
+  "__v": 0,
+  "link": "https://www.thinedgenewmusiccollective.com/"
+}]

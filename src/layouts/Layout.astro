@@ -1,0 +1,115 @@
+---
+import Screen from "../components/Screen.astro";
+import "../globals.css";
+export interface Props {
+  title: string;
+  description: string;
+  home?: boolean;
+}
+
+const { title, description, home } = Astro.props;
+
+const pathname = new URL(Astro.request.url).pathname;
+---
+
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body class="bg-white text-black font-manrope">
+    <nav
+      class={`fixed w-full text-xs z-10 top-0 left-0  py-4 md:py-8 lg:py-12 ${
+        home ? "bg-transparent" : "bg-white/90 backdrop-blur"
+      }`}
+    >
+      <Screen
+        className={`flex items-center space-x-2 uppercase ${
+          home ? "justify-end text-white" : "justify-start text-black"
+        }`}
+      >
+        <a
+          href="/about"
+          class={`hover:opacity-70 hover:scale-105 transition-all rounded-lg inline-block pr-4 py-2 ${
+            pathname === "/about"
+              ? "text-black"
+              : home
+              ? "text-white"
+              : "text-gray-500"
+          }`}>About</a
+        >
+        <a
+          href="/works"
+          class={`hover:opacity-70 hover:scale-105 transition-all rounded-lg inline-block px-4 py-2 ${
+            pathname === "/works"
+              ? "text-black"
+              : home
+              ? "text-white"
+              : "text-gray-500"
+          }`}>Works</a
+        >
+        <a
+          href="/workshops"
+          class={`hover:opacity-70 hover:scale-105 transition-all rounded-lg inline-block px-4 py-2 ${
+            pathname === "/workshops"
+              ? "text-black"
+              : home
+              ? "text-white"
+              : "text-gray-500"
+          }`}>Residencies</a
+        >
+        <a
+          href="/performances"
+          class={`hover:opacity-70 hover:scale-105 transition-all rounded-lg inline-block px-4 py-2 ${
+            pathname === "/performance"
+              ? "text-black"
+              : home
+              ? "text-white"
+              : "text-gray-500"
+          }`}>Performance</a
+        >
+        <a
+          href="/press"
+          class={`hover:opacity-70 hover:scale-105 transition-all rounded-lg inline-block px-4 py-2 ${
+            pathname === "/press"
+              ? "text-black"
+              : home
+              ? "text-white"
+              : "text-gray-500"
+          }`}>Press</a
+        >
+        <a
+          href="/materials"
+          class={`hover:opacity-70 hover:scale-105 transition-all rounded-lg inline-block px-4 py-2 ${
+            pathname === "/materials"
+              ? "text-black"
+              : home
+              ? "text-white"
+              : "text-gray-500"
+          }`}>Materials</a
+        >
+        <a
+          href="/contact"
+          class={`hover:opacity-70 hover:scale-105 transition-all rounded-lg inline-block pl-4 py-2 ${
+            pathname === "/contact"
+              ? "text-black"
+              : home
+              ? "text-white"
+              : "text-gray-500"
+          }`}>Contact</a
+        >
+      </Screen>
+    </nav>
+    <div class="fixed inset-0 w-full h-full z-20 pointer-events-none">
+      <img
+        src="/noise-bg.png"
+        class="relative w-full h-full object-cover object-center opacity-30"
+      />
+    </div>
+    <slot />
+  </body>
+</html>

@@ -1,0 +1,119 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Screen from "../../components/Screen.astro";
+import Soundcloud from "../../components/Soundcloud.astro";
+import ExtraImages from "../../components/ExtraImages.astro";
+import Video from "../../components/Video.astro";
+import { useSanityClient } from "astro-sanity";
+import SanityPortableText from "../../components/SanityPortableText.astro";
+
+interface Props {
+  title: string;
+  slug: {
+    current: string;
+  };
+  subtitle?: string;
+  date?: string;
+  image?: {
+    asset: {
+      url: string;
+      metadata: {
+        dimensions: {
+          width: number;
+          height: number;
+        };
+      };
+    };
+  };
+  extra_images?: {
+    asset: {
+      url: string;
+      metadata: {
+        dimensions: {
+          width: number;
+          height: number;
+        };
+      };
+    };
+  }[];
+  description?: any;
+  video?: string;
+  audio?: string;
+}
+export async function getStaticPaths() {
+  interface Work {
+    slug: {
+      current: string;
+    };
+  }
+  const query = /* groq */ `*[_type == "work"] {
+    slug,
+    title,
+    subtitle,
+    date,
+    image{asset->{metadata{dimensions}, url}},
+    description[],
+    video,
+    audio,
+    extra_images[]{asset->{metadata{dimensions}, url}}
+  } | order(date desc)`;
+  const allWorks: Work[] = await useSanityClient().fetch(query);
+  return allWorks.map((work) => ({
+    params: { slug: work.slug.current },
+    props: work,
+  }));
+}
+const {
+  title,
+  slug,
+  subtitle,
+  image,
+  description,
+  video,
+  audio,
+  extra_images,
+} = Astro.props;
+---
+
+<Layout title="" description="">
+  <Screen className={`mt-40 text-gray-500`}>
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 pb-40">
+      <div class="">
+        <h1 class="text-4xl font-bold">{title}</h1>
+        <p class="font-medium text-xl">{subtitle}</p>
+        <div class="sanity-prose">
+          <SanityPortableText portableText={description} />
+        </div>
+
+        {
+          audio && (
+            <div class="pt-8">
+              <Soundcloud iframe={audio} />
+            </div>
+          )
+        }
+        {
+          video && (
+            <div class="pt-8">
+              <Video url={video} />
+            </div>
+          )
+        }
+      </div>
+      <div>
+        {
+          extra_images ? (
+            <ExtraImages extra_images={extra_images} />
+          ) : (
+            <img
+              src={image?.asset.url}
+              alt={title}
+              width={image?.asset.metadata.dimensions.width}
+              height={image?.asset.metadata.dimensions.height}
+            />
+          )
+        }
+      </div>
+    </div>
+  </Screen>
+</Layout>

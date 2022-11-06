@@ -1,0 +1,281 @@
+[{
+  "_id": {
+    "$oid": "5c6c8a272d6ef570d7e02846"
+  },
+  "description": "<p>Feature written by Lisa Conway for the Canadian Music Centre</p>",
+  "title": "Canadian Music Centre (CMC)",
+  "image": {
+    "public_id": "yj9lodz1rqdn7nn0effb",
+    "version": 1550617129,
+    "signature": "7b175e18f7283a92ba8e033037a88081d86861e7",
+    "width": 7196,
+    "height": 3639,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550617129/yj9lodz1rqdn7nn0effb.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550617129/yj9lodz1rqdn7nn0effb.jpg"
+  },
+  "__v": 0,
+  "index": 1,
+  "link": "https://www.musiccentre.ca/node/154724"
+},{
+  "_id": {
+    "$oid": "5c6c8c6d09d187711553177f"
+  },
+  "description": "<p>Interview by Jennie Punter featured in Summer 2015 issue of Musicworks</p>",
+  "index": 7,
+  "title": "Musicworks",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550808925/nvsj0iwlbja34hfqvdnb.png",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550808925/nvsj0iwlbja34hfqvdnb.png",
+    "resource_type": "image",
+    "format": "png",
+    "height": 1220,
+    "width": 1738,
+    "signature": "d8194a7b8f4698485b980a510577ac44bd938a97",
+    "version": 1550808925,
+    "public_id": "nvsj0iwlbja34hfqvdnb"
+  },
+  "__v": 0,
+  "link": "/uploads/musicworks122.pdf"
+},{
+  "_id": {
+    "$oid": "5c6c8d4a09d1877115531780"
+  },
+  "description": "<p>Interview by Ross Karre with live performances of recent works played by members of ICE Ensemble. Public event at NYPL Bruno Walter Auditorium filmed for library's archives as part of Contemporary Composers Project.</p>",
+  "index": 3,
+  "title": "Contemporary Composers Project at the New York Public Library",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550809208/pxgah72ahsvz0ddozbxw.png",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550809208/pxgah72ahsvz0ddozbxw.png",
+    "resource_type": "image",
+    "format": "png",
+    "height": 1895,
+    "width": 3205,
+    "signature": "a089cac50ede239ad4de45f560724b58c8e731fb",
+    "version": 1550809208,
+    "public_id": "pxgah72ahsvz0ddozbxw"
+  },
+  "__v": 0,
+  "link": "https://digitice.org/digitice/detail/openice-collecting-sabrina-schroeder-at-nypl#.XGsli2RKhGE"
+},{
+  "_id": {
+    "$oid": "5c6c8dee09d1877115531781"
+  },
+  "description": "<p>Interview with Robert Worby on <a href=\"https://www.bbc.co.uk/programmes/b08ky8b3\" target=\"_blank\">BBC Radio 3</a> on performance of BONE GAMES at the 2017 Cut &amp; Splice festival (Manchester, UK)</p>",
+  "index": 6,
+  "title": "CUT & SPLICE FESTIVAL - BBC 3",
+  "image": {
+    "public_id": "nh1in9dsdwipapzwarss",
+    "version": 1550618095,
+    "signature": "a8df4635adcbe68bb1d802279743bbc4a18ae7e4",
+    "width": 1835,
+    "height": 983,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550618095/nh1in9dsdwipapzwarss.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550618095/nh1in9dsdwipapzwarss.jpg"
+  },
+  "__v": 0,
+  "link": "https://vimeo.com/190404952"
+},{
+  "_id": {
+    "$oid": "5c6c911509d1877115531782"
+  },
+  "description": "<p>Workshop at Mount Tremper Arts filmed with interviews; Featuring Joshua Rubin, Ryan Muncy, Kivie Cahn-Lipman, Dan Lippel, and Ross Karre.</p>",
+  "index": 8,
+  "title": "ICElab 2014",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550708073/njwr1eaqxfvggplyz09r.png",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550708073/njwr1eaqxfvggplyz09r.png",
+    "resource_type": "image",
+    "format": "png",
+    "height": 1254,
+    "width": 1266,
+    "signature": "c479f38e92dfff95471e5dc776bf26afc38a9321",
+    "version": 1550708073,
+    "public_id": "njwr1eaqxfvggplyz09r"
+  },
+  "__v": 0,
+  "link": "https://digitice.org/digitice/detail/international-contemporary-ensemble-sabrina-schroeder-icelab-at-mt.-tremper#.XGsnGGRKhGE"
+},{
+  "_id": {
+    "$oid": "5c6c919309d1877115531783"
+  },
+  "description": "<p>Interview with Ben Wylie for RE:composition (Vancouver's Co-Op radio) - November 21st, 2017</p>",
+  "index": 5,
+  "title": "RE:composition",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550809420/jusrufly54ffhonrjpta.png",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550809420/jusrufly54ffhonrjpta.png",
+    "resource_type": "image",
+    "format": "png",
+    "height": 550,
+    "width": 943,
+    "signature": "17cd0a73abdf2e8794bb28736db35c489571ea89",
+    "version": 1550809420,
+    "public_id": "jusrufly54ffhonrjpta"
+  },
+  "__v": 0,
+  "link": "http://coopradio.org/station/archives/46485?page=1"
+},{
+  "_id": {
+    "$oid": "5c6c91e809d1877115531784"
+  },
+  "description": "<p>Interview with Andy Resto for Discorder Magazine and CiTR 101.9 FM</p>\r\n<p>(Interview starts at 7'05)</p>",
+  "index": 4,
+  "title": "Discorder",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550808667/azcjcrec4epbvgfiya1e.jpg",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550808667/azcjcrec4epbvgfiya1e.jpg",
+    "resource_type": "image",
+    "format": "jpg",
+    "height": 272,
+    "width": 450,
+    "signature": "ce9c546afd038ac835aae238bb457efaa002a07f",
+    "version": 1550808667,
+    "public_id": "azcjcrec4epbvgfiya1e"
+  },
+  "__v": 0,
+  "link": "https://www.citr.ca/radio/the-burrow/episode/20171120/"
+},{
+  "_id": {
+    "$oid": "5c6c926a09d1877115531785"
+  },
+  "description": "<p>Interview with festival director Giorgio Magnanensi</p>\r\n<p>(Interview starts at 45'00)</p>",
+  "index": 2,
+  "title": "Vancouver New Music",
+  "image": {
+    "public_id": "ob9srz4t59meysvn57vk",
+    "version": 1550619243,
+    "signature": "9159746c650d18e4833f1221714209880f3084c9",
+    "width": 600,
+    "height": 322,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550619243/ob9srz4t59meysvn57vk.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550619243/ob9srz4t59meysvn57vk.jpg"
+  },
+  "__v": 0,
+  "link": "https://www.mixcloud.com/VancouverNewMusic/quartetti-pt-2-the-composers/"
+},{
+  "_id": {
+    "$oid": "5c6c92b909d1877115531786"
+  },
+  "description": "<p>Review of STIRCRAZER | HAMMER + FLUTTER</p>",
+  "index": 9,
+  "title": "Disquiet",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550808467/deobdon2ejwvdkota3bd.jpg",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550808467/deobdon2ejwvdkota3bd.jpg",
+    "resource_type": "image",
+    "format": "jpg",
+    "height": 272,
+    "width": 442,
+    "signature": "555c1664da64784580d1a5457416132645de4fae",
+    "version": 1550808467,
+    "public_id": "deobdon2ejwvdkota3bd"
+  },
+  "__v": 0,
+  "link": "https://disquiet.com/2015/03/23/sabrina-schroeders-industrial-theater/"
+},{
+  "_id": {
+    "$oid": "5c6df384f8ec627aabd3c1a3"
+  },
+  "description": "<p>Concert review by&nbsp;<a href=\"https://www.mundoclasico.com/Autores/Autor/258/Paco-Y%C3%A1%C3%B1ez\" target=\"_blank\">Paco Y&aacute;&ntilde;ez</a>&nbsp;on performance by Vertixe Sonora of&nbsp;STIRCRAZER | HAMMER&nbsp;+ FLUTTER <span class=\"gmail-s1\" style=\"caret-color: #000000; color: #000000; font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: 0px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;\"><em><br /></em></span></p>",
+  "link": "https://www.mundoclasico.com/articulo/21877/Verdaderos-altos-estudios",
+  "index": 10,
+  "title": "Música y Arte: Correspondencias Sonoras",
+  "image": {
+    "public_id": "gejvesymaj2zmw815fng",
+    "version": 1550709636,
+    "signature": "01b20b886fa92ea743581651fdef320a445b02c7",
+    "width": 466,
+    "height": 318,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550709636/gejvesymaj2zmw815fng.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550709636/gejvesymaj2zmw815fng.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5c6df470f8ec627aabd3c1a4"
+  },
+  "description": "<p>Workshop lecture with conductor V&eacute;ronique Lacroix and Ensemble Contemporain de Montr&eacute;al</p>",
+  "link": "https://youtu.be/4b-RYVv5gV0?t=150",
+  "index": 11,
+  "title": "ECM+ Génération 2016",
+  "image": {
+    "public_id": "fufkmccvznh9zozq1gdv",
+    "version": 1550709873,
+    "signature": "126497b0911c7f68cb7d95180d99fde5450267f4",
+    "width": 800,
+    "height": 400,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550709873/fufkmccvznh9zozq1gdv.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550709873/fufkmccvznh9zozq1gdv.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5c7578b171375900045435ad"
+  },
+  "description": "<p>Work featured&nbsp;in <a href=\"http://www.cathyvaneck.net/\" target=\"_blank\">Cathy Van Eck</a>'s book <em>Between Air and Electricity</em>&nbsp;published by Bloomsbury (2017)</p>",
+  "link": "https://www.bloomsbury.com/uk/between-air-and-electricity-9781501327605/",
+  "index": 3.5,
+  "title": "Between Air and Electricity",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1551206107/ovs5x06ppors11zrix5r.jpg",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1551206107/ovs5x06ppors11zrix5r.jpg",
+    "resource_type": "image",
+    "format": "jpg",
+    "height": 720,
+    "width": 1200,
+    "signature": "2d00280f58616f624d8af7bbfa1dfe2c8008083c",
+    "version": 1551206107,
+    "public_id": "ovs5x06ppors11zrix5r"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5c76dd22d741450004abdb4e"
+  },
+  "description": "<p>Concert review by Rebecca Wishnia of San Francisco Classical Voice of performance of <em>Bone Games | Shy Garden</em> by the San Francisco Contemporary Chamber Players.</p>",
+  "link": "https://www.sfcv.org/reviews/san-francisco-contemporary-music-players/the-melodic-elliott-carter-sf-contemporary-music",
+  "index": 3.5,
+  "title": "San Francisco Classical Voice",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1551293823/q9be4hut5nnk4rrobqz8.png",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1551293823/q9be4hut5nnk4rrobqz8.png",
+    "resource_type": "image",
+    "format": "png",
+    "height": 726,
+    "width": 1358,
+    "signature": "d98e67e9053c71441b16c0adfa6c00bb3cb2f9b4",
+    "version": 1551293823,
+    "public_id": "q9be4hut5nnk4rrobqz8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5c76e0ccd741450004abdb4f"
+  },
+  "description": "<p>Concert review by Zach Bergman&nbsp;of Musicworks of performance of <em>UNDERROOM</em> by JACK Quartet.</p>",
+  "link": "https://www.musicworks.ca/reviews/vancouver-new-music-festival-quartetti%E2%80%94-festival-string-quartets",
+  "index": 3.4,
+  "title": "Musicworks",
+  "__v": 0,
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1551294675/xsr4kdtc1gih8dlulrez.png",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1551294675/xsr4kdtc1gih8dlulrez.png",
+    "resource_type": "image",
+    "format": "png",
+    "height": 510,
+    "width": 1182,
+    "signature": "b958bc037957740b9753d61e6b9f2a53844b79d6",
+    "version": 1551294675,
+    "public_id": "xsr4kdtc1gih8dlulrez"
+  }
+}]

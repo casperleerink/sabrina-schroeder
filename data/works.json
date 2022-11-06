@@ -1,0 +1,536 @@
+[
+  {
+    "_id": {
+      "$oid": "5bb7c3db274b4fd08b1b748f"
+    },
+    "video": "",
+    "audio": "",
+    "description": "<p>Temple Grandin&rsquo;s hug machine let a person be enveloped without touch from another. <br />There is an enveloping space that sound and sound-feel can make with bodies. (There are so many layers there!) <br />Pulsation is intimate, innate to cellular life. Magnified, tremors are re-cast &mdash; can be forces that destabilise: <br />Hammer-action is rocking-action re-oriented. The underbelly of each moment thrumming in shifting resolutions, intensities and frictions of underlying fibrillation.<br /><br />&nbsp;&nbsp; &nbsp;&ldquo;Stone doesn&rsquo;t vanish, though: it explodes.&rdquo;<br /><br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;- <a href=\"https://en.wikipedia.org/wiki/Renee_Gladman\" target=\"_blank\">Renee Gladman</a><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"http://dorothyproject.com/book/renee-gladmans-the-ravickians/\" target=\"_blank\">The Ravickians</a><br /><br /></p>",
+    "title": "UNDERROOM",
+    "image": {
+      "public_id": "arn7wrhqctbbacflalz5",
+      "version": 1538769835,
+      "signature": "862b05093181f96c8adec27d8fb12102e7aded62",
+      "width": 920,
+      "height": 554,
+      "format": "jpg",
+      "resource_type": "image",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1538769835/arn7wrhqctbbacflalz5.jpg",
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1538769835/arn7wrhqctbbacflalz5.jpg"
+    },
+    "__v": 1,
+    "audio_url": "",
+    "extra_images": [],
+    "video_url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/v7sM7ZBF-Uo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "subtitle": "amplified string quartet + live electronics",
+    "year": "2018",
+    "details": "<p>Duration: 17&rsquo;02</p>\r\n<p><br /><br />Commissioned by <a href=\"http://jackquartet.com/\" target=\"_blank\">JACK Quartet</a> with support from the <a href=\"http://www.earle-brown.org/\" target=\"_blank\">Earle Brown Foundation</a>, <a href=\"https://www.swr.de/swrclassic/experimentalstudio/swrclassic-experimentalstudio-100.html\" target=\"_blank\">Experimentalstudio des SWR Freiburg</a>, and the <a href=\"https://canadacouncil.ca/\" target=\"_blank\">Canada Council for the Arts</a>.<br /><br />Premiered by JACK Quartet at the <a href=\"https://dimennacenter.org/\" target=\"_blank\">DiMenna Center</a>, co-produced by <a href=\"http://timespans.org/\" target=\"_blank\">TIME:SPANS Festival</a> (New York, USA) August 18th, 2018<br /><br /><br />Additional performances by JACK Quartet include:</p>\r\n<p><a href=\"https://vancouvercivictheatres.com/venues/annex/\" target=\"_blank\">Orpheum Annex </a>co-produced by <a href=\"https://newmusic.org/\" target=\"_blank\">Vancouver New Music</a> (Vancouver, Canada), October 18, 2018&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Upcoming:</p>\r\n<p><a href=\"https://www.banffcentre.ca/performing-arts-facilities\" target=\"_blank\">Rolston Hall </a>at the Banff Centre for Arts and Creativity (Banff, Canada) - 2019<br /><a href=\"https://konzerthaus.at/en\" target=\"_blank\">Vienna Konzerthaus</a> (Vienna, Austria) - 2020<br /><a href=\"https://www.elbphilharmonie.de/en/\" target=\"_blank\">Elbphilharmonie</a> (Hamburg, Germany) - 2020<br /><a href=\"https://boulezsaal.de/\" target=\"_blank\">Boulez Saal</a> (Berlin, Germany) - 2020</p>\r\n<p>&nbsp;</p>\r\n<p>Performance interface developed with programming and design support from <a href=\"http://www.constantinpopp.de/\" target=\"_blank\">Constantin Popp</a> of the Experimentalstudio des SWR Freiburg.</p>",
+    "index": 1
+  },
+  {
+    "_id": {
+      "$oid": "5bb7c484274b4fd08b1b7490"
+    },
+    "video": "",
+    "audio": "",
+    "description": "<p>&nbsp;</p>\r\n<p>&nbsp;&nbsp; <em>&ldquo;-- And its sound?</em></p>\r\n<p><em>&nbsp; &nbsp; -- As in the toothed whale. There is a buried hearing organ.</em><br /><em>&nbsp;&nbsp;&nbsp; </em></p>\r\n<p><em>&nbsp; &nbsp; -- And its sound?</em></p>\r\n<p><em>&nbsp; &nbsp; -- It enters the immersed body firstmost through the throat.&rdquo;</em><br />&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- <a href=\"https://www.baselinepress.ca/slip-minute-annemarie-turza-2018\" target=\"_blank\">Anne-Marie Turza</a>,&nbsp; <a href=\"https://www.goodreads.com/book/show/18342416-the-quiet\" target=\"_blank\">The Quiet</a></p>",
+    "title": "LOVE MACHINE",
+    "image": {
+      "public_id": "tn9ymvipbljqbko5qcgm",
+      "version": 1538770005,
+      "signature": "627e916f281cf107de26bf3824dc140b722ff860",
+      "width": 652,
+      "height": 658,
+      "format": "jpg",
+      "resource_type": "image",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1538770005/tn9ymvipbljqbko5qcgm.jpg",
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1538770005/tn9ymvipbljqbko5qcgm.jpg"
+    },
+    "__v": 1,
+    "audio_url": "",
+    "extra_images": [],
+    "subtitle": "amplified solo bassoon + live electronics",
+    "video_url": "",
+    "year": "2018",
+    "details": "<p>Duration: 9&rsquo;20<br /><br /></p>\r\n<p><br />Co-commissioned for <a href=\"http://www.rebekahheller.com/home\" target=\"_blank\">Rebekah Heller</a> by <a href=\"https://www.iceorg.org/about-1\" target=\"_blank\">ICE Ensemble</a> and the <a href=\"https://www.banffcentre.ca/\" target=\"_blank\">Banff Centre for Arts and Creativity</a>.<br /><br />Premiered by Rebekah Heller at the Banff Centre for the Arts July 7th, 2018<br /><br /><br /></p>",
+    "index": 3
+  },
+  {
+    "_id": {
+      "$oid": "5bb7c8103d5ff5d13fb52a09"
+    },
+    "video": "",
+    "audio": "",
+    "description": "",
+    "title": "DARKHORSE",
+    "image": {
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550854944/zvkgewg6qpwjfbbevuv9.jpg",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550854944/zvkgewg6qpwjfbbevuv9.jpg",
+      "resource_type": "image",
+      "format": "jpg",
+      "height": 2192,
+      "width": 3804,
+      "signature": "85ed6a6644aea2583141d0c40cb763aa5e1437db",
+      "version": 1550854944,
+      "public_id": "zvkgewg6qpwjfbbevuv9"
+    },
+    "__v": 1,
+    "audio_url": "",
+    "extra_images": [],
+    "subtitle": "mixed amplified ensemble + live electronics",
+    "video_url": "<iframe src=\"https://player.vimeo.com/video/245401651\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/245401651\">Sabrina Schroeder: Bone Games - DARKHORSE</a> from <a href=\"https://vimeo.com/iceorg\">ICE</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+    "year": "2017",
+    "details": "<p>bass flute, bass clarinet, baritone sax, e-guitar, percussion, harp, viola, cello with pedals&nbsp;+ live electronics</p>\r\n<p>Duration: 20&rsquo;35&nbsp;</p>\r\n<p><br /><br />Commissioned by <a href=\"https://www.iceorg.org/about-1\" target=\"_blank\">ICE Ensemble</a>.<br /><br />Written in close collaboration with ICE Ensemble, featuring:<br /><br /><a href=\"http://www.aliceteyssier.com/\" target=\"_blank\">Alice Tessier</a> - picc/bass flute<br /><a href=\"https://civicfellows.org/alumni-2/zachary-good/\" target=\"_blank\">Zachary Good</a> - bass clarinet<br /><a href=\"http://ryanmuncy.com/\" target=\"_blank\">Ryan Muncy</a> - baritone sax<br /><a href=\"https://danlippel.com/\" target=\"_blank\">Dan Lippel</a> - e-guitar<br /><a href=\"http://rosskarre.com/\" target=\"_blank\">Ross Karre</a> - percussion<br /><a href=\"https://www.instantencore.com/contributor/bio.aspx?CId=5137636\" target=\"_blank\">Nuiko Wadden</a> - harp<br /><a href=\"https://joshmodney.com/\" target=\"_blank\">Josh Modney</a> - viola / string drum<br /><a href=\"http://www.acronymensemble.com/kivie\" target=\"_blank\">Kivie Cahn-Lipman</a> - cello<br /><br />Sabrina Schroeder - live electronics<br /><a href=\"https://www.levylorenzo.com/\" target=\"_blank\">Levy Lorenzo</a> - sound design<br /><br /><br />Premiered by ICE Ensemble at <a href=\"https://nationalsawdust.org/\" target=\"_blank\">National Sawdust</a> (Brooklyn, USA) October 22nd, 2017<br /><br />Performed by ICE Ensemble co-produced by <a href=\"https://www.nytimes.com/2016/03/02/arts/music/new-music-festival-in-chicago-offers-the-complicated-and-the-compelling.html\" target=\"_blank\">Frequency Festival</a> at <a href=\"https://www.constellation-chicago.com/\" target=\"_blank\">Constellation</a> (Chicago, USA) January 17th, 2018<br /><br /><br /></p>\r\n<p><span style=\"color: #888888; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Transducer performance interface developed with programming and design support from&nbsp;</span><a style=\"box-sizing: border-box; color: #af0101; text-decoration-line: none; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\" href=\"http://josiahwolfoberholtzer.com/\" target=\"_blank\">Josiah Oberholtzer</a><span style=\"color: #888888; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">, and from&nbsp;</span><a style=\"box-sizing: border-box; color: #af0101; text-decoration-line: none; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\" href=\"https://www.swr.de/swr-classic/experimentalstudio/experimentalstudio-team-michael-acker-tonmeister-klangregisseur-biografie/-/id=17055498/did=17598358/nid=17055498/17pn9wg/index.html\" target=\"_blank\">Michael Acker</a><span style=\"color: #888888; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">&nbsp;of the Experimentalstudio de SWR Freiburg.</span></p>",
+    "index": 4
+  },
+  {
+    "_id": {
+      "$oid": "5bb7c86d3d5ff5d13fb52a0a"
+    },
+    "video": "",
+    "audio": "",
+    "description": "",
+    "title": "BONE GAMES",
+    "image": {
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550696627/kwwgnlrpj2ik2l4viwoe.jpg",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550696627/kwwgnlrpj2ik2l4viwoe.jpg",
+      "resource_type": "image",
+      "format": "jpg",
+      "height": 667,
+      "width": 1000,
+      "signature": "f472fbdfa29c3b56bdd4162401d6ad62910a114c",
+      "version": 1550696627,
+      "public_id": "kwwgnlrpj2ik2l4viwoe"
+    },
+    "__v": 31,
+    "audio_url": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280422940&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "video_url": "",
+    "extra_images": [
+      {
+        "public_id": "kofbshi157vmyd1k8b8x",
+        "version": 1550696628,
+        "signature": "4de25726373133a69bfbb3d299d9f783d7507080",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550696628/kofbshi157vmyd1k8b8x.jpg",
+        "width": 2160,
+        "height": 1440,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550696628/kofbshi157vmyd1k8b8x.jpg",
+        "_id": {
+          "$oid": "5c6dc0b42c3ff4778fc7387c"
+        }
+      },
+      {
+        "public_id": "b9qebneuldzxfw9esdd8",
+        "version": 1550968648,
+        "signature": "be1f9b1a388c85e40a553c5ce4018c907f49d810",
+        "format": "png",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550968648/b9qebneuldzxfw9esdd8.png",
+        "width": 2144,
+        "height": 1804,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550968648/b9qebneuldzxfw9esdd8.png",
+        "_id": {
+          "$oid": "5c71e74875c72500041b3191"
+        }
+      },
+      {
+        "public_id": "jj9gw2xsqou5cj0sylqv",
+        "version": 1550968673,
+        "signature": "0bc76abf1cf2d8e8d8ffe128d708dd04f8f96f9e",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550968673/jj9gw2xsqou5cj0sylqv.jpg",
+        "width": 2160,
+        "height": 1440,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550968673/jj9gw2xsqou5cj0sylqv.jpg",
+        "_id": {
+          "$oid": "5c71e76175c72500041b3192"
+        }
+      },
+      {
+        "public_id": "mus3bkbdv3ubpou1z1nz",
+        "version": 1550968799,
+        "signature": "a9d8afbfa32f109c324ff180f4b34e035f9b1e92",
+        "format": "png",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550968799/mus3bkbdv3ubpou1z1nz.png",
+        "width": 604,
+        "height": 544,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550968799/mus3bkbdv3ubpou1z1nz.png",
+        "_id": {
+          "$oid": "5c71e7df75c72500041b3194"
+        }
+      },
+      {
+        "public_id": "nefjcuqrxdxxqa0kdc1d",
+        "version": 1550968829,
+        "signature": "98efe37922689d39aa2532957c350ba463400e1c",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550968829/nefjcuqrxdxxqa0kdc1d.jpg",
+        "width": 3264,
+        "height": 2448,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550968829/nefjcuqrxdxxqa0kdc1d.jpg",
+        "_id": {
+          "$oid": "5c71e7fe75c72500041b3195"
+        }
+      },
+      {
+        "public_id": "ttxxaehdmlaka2lkczho",
+        "version": 1550968844,
+        "signature": "ea97754f6d6f36f1c8b1662475132274e75a5822",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550968844/ttxxaehdmlaka2lkczho.jpg",
+        "width": 2448,
+        "height": 3264,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550968844/ttxxaehdmlaka2lkczho.jpg",
+        "_id": {
+          "$oid": "5c71e80c75c72500041b3196"
+        }
+      },
+      {
+        "public_id": "nercgw38rcxyj3aexl9w",
+        "version": 1550968861,
+        "signature": "d197980d543ec57b264b3dc44eb55d4c8f29093c",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550968861/nercgw38rcxyj3aexl9w.jpg",
+        "width": 3264,
+        "height": 2448,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550968861/nercgw38rcxyj3aexl9w.jpg",
+        "_id": {
+          "$oid": "5c71e81d75c72500041b3197"
+        }
+      },
+      {
+        "public_id": "hoedamydgurtrloonmbf",
+        "version": 1550969654,
+        "signature": "c4779292ff69be337d097ccf0993ddeceb5ff312",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550969654/hoedamydgurtrloonmbf.jpg",
+        "width": 1920,
+        "height": 1080,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550969654/hoedamydgurtrloonmbf.jpg",
+        "_id": {
+          "$oid": "5c71eb3675c72500041b3199"
+        }
+      },
+      {
+        "public_id": "uhgq25fh30mxik3lm7xa",
+        "version": 1550969682,
+        "signature": "3f9af9465d45c3371c589cb2dca5b286ac016261",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550969682/uhgq25fh30mxik3lm7xa.jpg",
+        "width": 1920,
+        "height": 1080,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550969682/uhgq25fh30mxik3lm7xa.jpg",
+        "_id": {
+          "$oid": "5c71eb5275c72500041b319a"
+        }
+      },
+      {
+        "public_id": "dlvimlmz2pbil3hjekuy",
+        "version": 1550969702,
+        "signature": "6c42adb25ba69d83badca320cb5c4ab32cb6d661",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550969702/dlvimlmz2pbil3hjekuy.jpg",
+        "width": 1920,
+        "height": 1080,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550969702/dlvimlmz2pbil3hjekuy.jpg",
+        "_id": {
+          "$oid": "5c71eb6675c72500041b319b"
+        }
+      },
+      {
+        "public_id": "a4ypflkkwsymwdezdvev",
+        "version": 1550969759,
+        "signature": "c34fd29cbbfb6fff508f4d0ade85c14c5a59485b",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550969759/a4ypflkkwsymwdezdvev.jpg",
+        "width": 1920,
+        "height": 1080,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550969759/a4ypflkkwsymwdezdvev.jpg",
+        "_id": {
+          "$oid": "5c71eb9f75c72500041b319c"
+        }
+      }
+    ],
+    "subtitle": "mixed amplified ensemble + integrated electronics",
+    "year": "2016",
+    "details": "<p>bass clarinet, e-guitar, string drums, percussion, cello +&nbsp;integrated electronics</p>\r\n<p>Duration: 12&rsquo;54&nbsp;</p>\r\n<p>&nbsp;<br />Commissioned by <a href=\"http://www.distractfold.co.uk/\" target=\"_blank\">Distractfold</a> with support from the <a href=\"https://canadacouncil.ca/\" target=\"_blank\">Canada Council for the Arts</a>.<br /><br />Written in close collaboration with Distractfold, featuring:<br /><br /><a href=\"http://www.distractfold.co.uk/rocio-bolaos/\" target=\"_blank\">Roc&iacute;o Bola&ntilde;os</a> - bass clarinet (w transposition pedals)<br /><a href=\"http://www.distractfold.co.uk/about-us#/daniel-brew/\" target=\"_blank\">Daniel Brew</a> - electric guitar<br /><a href=\"http://lindajankowska.com/\" target=\"_blank\">Linda Jankowska</a> - bowed kick + snare drums (drums outfitted with bridges + strings)<br /><a href=\"https://vimeo.com/christiansmit\" target=\"_blank\">Christian Smith</a> - bowed kick drum (as above) + other percussion<br /><a href=\"http://www.distractfold.co.uk/alice-purton/\" target=\"_blank\">Alice Purton</a> - cello (w transposition pedals)<br />Sabrina Schroeder - transducers (bass drum, floor tom, and plywood cubes performed via live-manipulated sound waves through transducers).</p>\r\n<p>Transducer performance interface developed with programming and design support from <a href=\"http://josiahwolfoberholtzer.com/\" target=\"_blank\">Josiah Oberholtzer</a>, and from <a href=\"https://www.swr.de/swr-classic/experimentalstudio/experimentalstudio-team-michael-acker-tonmeister-klangregisseur-biografie/-/id=17055498/did=17598358/nid=17055498/17pn9wg/index.html\" target=\"_blank\">Michael Acker</a> of the Experimentalstudio de SWR Freiburg.</p>\r\n<p><br />Premiered by Distractfold at the 48th <a href=\"http://internationales-musikinstitut.de/en/ferienkurse/\" target=\"_blank\">Internationale Ferienkurse</a> (Darmstadt, Germany) August 7th, 2016<br /><br />Performed by Distractfold co-produced by <a href=\"https://www.bbc.co.uk/programmes/b08ky8b3\" target=\"_blank\">BBC Radio 3</a> and the <a href=\"https://vimeo.com/190404952\" target=\"_blank\">Cut &amp; Splice Festival</a> at Hall&eacute; St Peter&rsquo;s (Manchester, UK) March 11th, 2017.<br /><br /></p>\r\n<p>Performed by Distractfold in&nbsp;the <a href=\"http://www.rainydays.lu/2018/html/\" target=\"_blank\">Rainy Days Festival</a> at the <a href=\"http://www.theatres.lu/\" target=\"_blank\">Grand&nbsp;Th&eacute;atre</a><span style=\"letter-spacing: 0px; font-family: Helvetica; font-size: 11px;\">,</span>&nbsp;<a href=\"https://www.philharmonie.lu/en/programm/distractfold-sound-theatre-with-crocodiles/1386\" target=\"_blank\">Philharmonie Luxembourg</a>&nbsp;in collaboration with lighting artist <a href=\"http://www.yaronabulafia.com/\" target=\"_blank\">Yaron Abulafia</a>.</p>\r\n<p>&nbsp;</p>\r\n<p>Upcoming performances by Distractfold:</p>\r\n<p><a href=\"https://www.gso.se/en/concert-hall/\" target=\"_blank\">Gothenburg Concert Hall</a> (Gothenburg, Sweden) - 2020</p>\r\n<p>&nbsp;</p>",
+    "index": 5
+  },
+  {
+    "_id": {
+      "$oid": "5bbf97300f066458333eb970"
+    },
+    "video_url": "",
+    "audio_url": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338863693&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "description": "",
+    "title": "BONE GAMES | SHY GARDEN",
+    "image": {
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550696566/qxcz0ckxurxjqg4hbriq.jpg",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550696566/qxcz0ckxurxjqg4hbriq.jpg",
+      "resource_type": "image",
+      "format": "jpg",
+      "height": 254,
+      "width": 390,
+      "signature": "a21db8aab9470fe816b0512603ba1bd39fe982a6",
+      "version": 1550696566,
+      "public_id": "qxcz0ckxurxjqg4hbriq"
+    },
+    "__v": 1,
+    "extra_images": [],
+    "subtitle": "large ensemble + transducers",
+    "year": "2016",
+    "details": "<p>bass flute, bass clarinet, bassoon, horn, percussion, piano, 2 violins, viola, cello&nbsp;+&nbsp;integrated transducers</p>\r\n<p>Duration: 11&rsquo;44</p>\r\n<p><br /><br /><br />Commissioned by <a href=\"https://www.ecm.qc.ca/\" target=\"_blank\">Ensemble Contemporain de Montr&eacute;al</a> with support from <a href=\"http://www.socan.com/\" target=\"_blank\">Socan</a> and the <a href=\"https://canadacouncil.ca/\" target=\"_blank\">Canada Council for the Arts</a>.<br /><br />Premiered by ECM+ at the <a href=\"https://www.banffcentre.ca/\" target=\"_blank\">Banff Centre for Arts and Creativity</a>, October 20th, 2016</p>\r\n<p>Toured by ECM+ with performances at:</p>\r\n<p class=\"p1\"><span class=\"s1\">&nbsp; &nbsp; &nbsp; 20/10 - Banff, The Banff Centre</span></p>\r\n<p class=\"p1\"><span class=\"s1\">&nbsp; &nbsp; &nbsp; 21/10 - Edmonton, Convocation Hall, University of Alberta (New Music Edmonton)</span></p>\r\n<p class=\"p1\"><span class=\"s1\">&nbsp; &nbsp; &nbsp; 24/10 - Victoria, Phillip T. Young Recital Hall</span></p>\r\n<p class=\"p1\"><span class=\"s1\">&nbsp; &nbsp; &nbsp; 25/10 - Vancouver, Orpheum Annex</span></p>\r\n<p class=\"p1\"><span class=\"s1\">&nbsp; &nbsp; &nbsp; 27/10 - Montr&eacute;al, Salle de concert of the Conservatoire</span></p>\r\n<p class=\"p1\"><span class=\"s1\">&nbsp; &nbsp; &nbsp; 30/10 - Toronto, New Music Concerts, The Music Gallery</span></p>\r\n<p class=\"p1\"><span class=\"s1\">&nbsp; &nbsp; &nbsp; 31/10 - London, Von Kuster Hall, Don Wright Faculty of Music, Western University</span></p>\r\n<p class=\"p1\"><span class=\"s1\">&nbsp; &nbsp; &nbsp; 1/11 - Ottawa, Studio of the National Arts Centre</span></p>\r\n<p class=\"p1\"><span class=\"s1\">&nbsp; &nbsp; &nbsp; 3/11 - Qu&eacute;bec, Espace Hyp&eacute;rion</span></p>\r\n<p class=\"p1\">&nbsp;</p>\r\n<p>Performed by <a href=\"https://sfcmp.org/\" target=\"_blank\">San Francisco Contemporary Chamber Players</a> at the <a href=\"https://www.symphonyparnassus.org/taube-atrium-theater\" target=\"_blank\">Taube Atrium Theater</a> (San Francisco, USA) October 20th, 2018<br /><br /><br /></p>",
+    "index": 7
+  },
+  {
+    "_id": {
+      "$oid": "5bbf97e10f066458333eb971"
+    },
+    "video_url": "",
+    "audio_url": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193380416&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "description": "",
+    "title": "STIRCRAZER | HAMMER + FLUTTER",
+    "image": {
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550801493/hw18nab1sagokt0fk0rg.jpg",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550801493/hw18nab1sagokt0fk0rg.jpg",
+      "resource_type": "image",
+      "format": "jpg",
+      "height": 373,
+      "width": 646,
+      "signature": "68750e4e083929c156b80f2d7479fb28b7574b5e",
+      "version": 1550801493,
+      "public_id": "hw18nab1sagokt0fk0rg"
+    },
+    "__v": 13,
+    "extra_images": [
+      {
+        "public_id": "jvmltvmwb50rmv9o0uyw",
+        "version": 1539286501,
+        "signature": "ff76446fa3e41e1f46ccf7976900c003a92c5b14",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539286501/jvmltvmwb50rmv9o0uyw.jpg",
+        "width": 960,
+        "height": 896,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539286501/jvmltvmwb50rmv9o0uyw.jpg",
+        "_id": {
+          "$oid": "5bbfa5e5483a175b3a116172"
+        }
+      },
+      {
+        "public_id": "cmo7ccvhzwfrieddclxi",
+        "version": 1550968984,
+        "signature": "369ce1499e58529deca9b4e8b8b36bf304abec96",
+        "width": 1442,
+        "height": 1596,
+        "format": "png",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550968984/cmo7ccvhzwfrieddclxi.png",
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550968984/cmo7ccvhzwfrieddclxi.png",
+        "_id": {
+          "$oid": "5c71e89875c72500041b3198"
+        }
+      }
+    ],
+    "subtitle": "bari sax, percussion, piano, harp + integrated electronics",
+    "year": "2014",
+    "details": "<p>Duration: 11&rsquo;40</p>\r\n<p><br /><br />Commissioned and premiered by <a href=\"http://vertixesonora.net/\" target=\"_blank\">Vertixe Sonora</a> for the <a href=\"http://vertixesonora.net/es/correspondencias-sonoras/\" target=\"_blank\">Correspondencias Sonoras</a> festival at the <a href=\"http://museos.xunta.gal/en/cgac\" target=\"_blank\">Galician Centre for Contemporary Art</a> (Santiago de Compostela, Spain).</p>\r\n<p>&nbsp;</p>\r\n<p>Performed by <a href=\"http://www.dalniente.com/\" target=\"_blank\">Dal Niente</a> (Boston, USA)</p>\r\n<p><br /><br /><br /></p>",
+    "index": 6
+  },
+  {
+    "_id": {
+      "$oid": "5bbfad8b483a175b3a116173"
+    },
+    "video_url": "",
+    "audio_url": "",
+    "description": "",
+    "title": "ANOTHER ARROW NOW <br> FROM THE LITTLE QUIVER",
+    "extra_images": [],
+    "image": {
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550519141/sn3tkj2fggkgdcgdhlqw.jpg",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550519141/sn3tkj2fggkgdcgdhlqw.jpg",
+      "resource_type": "image",
+      "format": "jpg",
+      "height": 325,
+      "width": 400,
+      "signature": "ce3f8c9247d8f3ba8fcef462591b4ce28cfec8ee",
+      "version": 1550519141,
+      "public_id": "sn3tkj2fggkgdcgdhlqw"
+    },
+    "__v": 0,
+    "subtitle": "",
+    "year": "2018",
+    "details": "<p>ondes martenot, percussion, disklavier, harp, and double bass</p>\r\n<p>Duration: 11&rsquo;50</p>\r\n<p><br /><br />Commissioned by the <a href=\"https://www.as-coa.org/music\" target=\"_blank\">Americas Society</a>.</p>\r\n<p><br /><br />Premiered at the <a href=\"https://www.as-coa.org/arts-culture-americas-society\" target=\"_blank\">Americas Society Concert Hall</a> (Manhattan, New York), September 14th, 2018 by:</p>\r\n<p><a href=\"https://suzannefarrin.com/index.html\" target=\"_blank\">Suzanne Farrin</a> (ondes martenot)</p>\r\n<p><a href=\"http://www.russellgreenberg.net/\" target=\"_blank\">Russell Greenberg</a> (percussion)</p>\r\n<p><a href=\"https://www.instantencore.com/contributor/bio.aspx?CId=5137636\" target=\"_blank\">Nuiko Wadden</a> (harp)</p>\r\n<p><a href=\"http://www.evanrunyon.com/\" target=\"_blank\">Evan Runyon</a> (bass)&nbsp;</p>\r\n<p><br /><br /></p>",
+    "index": 2
+  },
+  {
+    "_id": {
+      "$oid": "5bbfaf35483a175b3a116174"
+    },
+    "video_url": "",
+    "audio_url": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/120807082&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "description": "<p>Written in close collaboration with S&eacute;verine Ballon in spring of 2013, Stircrazer II is the second in a group of three pieces for solo performer with live mechanics. While each embodies distinct terrain they share a common preoccupation with frictions and surface tensions, fragility and blunt mechanisms. The project stemmed initially out of an improvised set for solo performer, developed for a show at Chicago&rsquo;s Heaven Gallery. My deepest gratitude to S&eacute;verine for her magic as a performer and for her many creative contributions to the development of this piece.</p>",
+    "title": "STIRCRAZER II",
+    "extra_images": [
+      {
+        "public_id": "drpfc23rh9ea1hezr97n",
+        "version": 1539288906,
+        "signature": "391400040536fecdf3e3622e7857240f03304914",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539288906/drpfc23rh9ea1hezr97n.jpg",
+        "width": 1901,
+        "height": 887,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539288906/drpfc23rh9ea1hezr97n.jpg",
+        "_id": {
+          "$oid": "5bbfaf4b483a175b3a116175"
+        }
+      }
+    ],
+    "image": {
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550809804/ai4uhn0wdv3zc9tp4brz.jpg",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550809804/ai4uhn0wdv3zc9tp4brz.jpg",
+      "resource_type": "image",
+      "format": "jpg",
+      "height": 720,
+      "width": 1280,
+      "signature": "8556ee9470c5f1321b7940863706e681397b00f1",
+      "version": 1550809804,
+      "public_id": "ai4uhn0wdv3zc9tp4brz"
+    },
+    "__v": 17,
+    "subtitle": "solo cello with bass drums + transducers",
+    "year": "2013",
+    "details": "<p>Duration: 6&rsquo;37<br /><br /><br />Commissioned by <a href=\"https://www.severineballon.com/\" target=\"_blank\">S&eacute;verine Ballon</a><br /><br /><br />Premiered by S&eacute;verine Ballon at <br />&nbsp; &nbsp; <a href=\"http://www.cnsmd-lyon.fr/\" target=\"_blank\">Conservatoire Superieur de Lyon</a> (Lyon, France)<br />&nbsp; &nbsp; <a href=\"https://www.swr.de/swrclassic/experimentalstudio/swrclassic-experimentalstudio-100.html\" target=\"_blank\">SWR Experimentalstudio</a> (Freiburg, Germany)<br />&nbsp; &nbsp; <a href=\"http://thestonenyc.com/\" target=\"_blank\">The Stone</a> (New York, USA)<br />&nbsp; &nbsp; <a href=\"http://internationales-musikinstitut.de/en/imd/\" target=\"_blank\">47th Internationale Ferienkurse fur Neue Musik</a> (Darmstadt, Germany)<br />&nbsp; &nbsp; <a href=\"http://www.unerhoerte-musik.de/#Bookmark1\" target=\"_blank\">Unerh&ouml;rte Musik</a> (Berlin, Germany)<br /><br /></p>\r\n<p>Additional performances by:</p>\r\n<p>&nbsp; &nbsp;&nbsp;<a href=\"https://www.ashleywalterscello.com/\" target=\"_blank\">Ashley Walters</a>&nbsp;in&nbsp;<a href=\"https://www.wastelandmusic.org/\" target=\"_blank\">WasteLand</a>&nbsp;&nbsp;series (Los Angeles, USA)</p>\r\n<p>&nbsp; &nbsp;&nbsp;<a href=\"https://www.crossingborder.nl/artist/benjamin-glorieux/?lang=en\" target=\"_blank\">Benjamin Glorieux</a>&nbsp;at&nbsp;<a href=\"https://www.flagey.be/en/\" target=\"_blank\">Centre Henri Pousseur | Flagey</a>&nbsp;(Brussels; Ghent, Belgium)</p>\r\n<p>&nbsp; &nbsp;&nbsp;<a href=\"http://www.acronymensemble.com/kivie\" target=\"_blank\">Kivie Lipman-Cahn</a>&nbsp;at&nbsp;<a href=\"https://soundstreams.ca/\" target=\"_blank\">Toronto Soundstreams</a>&nbsp;(Toronto, Canada)</p>\r\n<p>&nbsp; &nbsp;&nbsp;<a href=\"https://robertomaqueda.com/en/projects/\" target=\"_blank\">Ensemble Container</a>&nbsp;at&nbsp;<a href=\"https://www.usinekugler.ch/fonderie/fonderie-kugler/news-fonderie/477-open-fonderie-kugler\" target=\"_blank\">Open Fonderie Kugler</a>&nbsp;(Geneva, Switzerland)</p>\r\n<p>&nbsp; &nbsp;&nbsp;<a href=\"http://ensemblevortex.com/\" target=\"_blank\">Ensemble Vortex</a>&nbsp;at&nbsp;<a href=\"https://www.fondationlabri.ch/\" target=\"_blank\">Fondation L'Abri</a>&nbsp;&nbsp;(Geneva, Switzerland)</p>\r\n<p>&nbsp; &nbsp;&nbsp;<a href=\"http://jacquesborel.ch/ET/\" target=\"_blank\">Ensemble Tzara</a>&nbsp;at:</p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"http://www.lichtspiel.ch/en/\" target=\"_blank\">Lichtspiel</a>&nbsp;(Bern, Switzerland)<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://stadtkinobasel.ch/\" target=\"_blank\">Stadtkino</a>&nbsp;(Basel, Switzerland)&nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://www.arthouse.ch/kinos/uto/\" target=\"_blank\">Uto-Kino</a>&nbsp;(Zurich, Switzerland)<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://www.cinemasilplaz.ch/program/\" target=\"_blank\">Cinema Sil Plaz</a>&nbsp;(Ilanz, Switzerland)</p>\r\n<p>&nbsp; &nbsp;&nbsp;<a href=\"http://www.helennewby.com/\" target=\"_blank\">Helen Newby</a>&nbsp;and&nbsp;<a href=\"https://benroidlward.wordpress.com/\" target=\"_blank\">Ben Roidl-Ward</a>&nbsp;at the <a href=\"https://www.banffcentre.ca/\" target=\"_blank\">Banff Centre for the Arts</a>&nbsp;(Banff, Canada)&nbsp; &nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #888888; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Transducer performance interface developed with programming and design support from </span><span style=\"color: #888888; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><a href=\"http://josiahwolfoberholtzer.com/\" target=\"_blank\">Josiah Oberholtzer</a>.</span></p>",
+    "index": 9
+  },
+  {
+    "_id": {
+      "$oid": "5bbfb001483a175b3a116176"
+    },
+    "video_url": "",
+    "audio_url": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/68697479&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "description": "<p><em>\"This is a story he gathers in a car during the early hours of the morning. He listens and asks questions as the vehicle travels through darkness. The woman who is driving could say, \"In that field is a castle,\" and it would be possible for him to believe her. He picks up and pulls together various corners of the story, attempting to carry it all in his arms.\"</em><br /><br />In the Skin of a Lion<br />Michael Ondaatje</p>",
+    "title": "HE CUTS SNOW",
+    "extra_images": [],
+    "image": {
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550854806/zwxyj7mczrxh6ecrkvmn.jpg",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550854806/zwxyj7mczrxh6ecrkvmn.jpg",
+      "resource_type": "image",
+      "format": "jpg",
+      "height": 2550,
+      "width": 4200,
+      "signature": "69d84ab8d51f62ff710a6c10e6f099a5d25da38b",
+      "version": 1550854806,
+      "public_id": "zwxyj7mczrxh6ecrkvmn"
+    },
+    "__v": 0,
+    "subtitle": "mixed ensemble + live mechanics",
+    "year": "2012",
+    "details": "<p>picc/bass flute, bass clarinet, piano, percussion, and cello + live mechanics</p>\r\n<p>Duration: 5&rsquo;14</p>\r\n<p>&nbsp;</p>\r\n<p><br />Premiered by <a href=\"https://www.musikfabrik.eu/\" target=\"_blank\">Ensemble MusikFabrik</a> at <a href=\"https://empac.rpi.edu/\" target=\"_blank\">Experimental Media and Performing Arts Center</a> (Troy, New York, USA)</p>\r\n<p><br />Additional performances by:<br /><br /><span style=\"font-family: 'Helvetica Neue';\"><a href=\"https://www.argentomusic.org/\" target=\"_blank\">Ensemble Argento</a> (Boston, USA)</span></p>\r\n<p class=\"p1\"><a href=\"http://www.dalniente.com/\" target=\"_blank\">Dal Niente</a> (Chicago, USA)</p>\r\n<p class=\"p1\"><a href=\"http://ensemble-handwerk.eu/en/\" target=\"_blank\">Hand Werk</a> (Darmstadt, Germany)</p>\r\n<p class=\"p1\"><a href=\"http://www.jonathan-hepfer.com/projects.html\" target=\"_blank\">Echoi Ensemble</a> at <a href=\"http://www.mondayeveningconcerts.org/\" target=\"_blank\">Monday Evening Concerts</a> (Los Angeles, USA)</p>\r\n<p class=\"p1\"><a href=\"https://www.ecm.qc.ca/\" target=\"_blank\">Ensemble Contemporain de Montr&eacute;al </a>(ECM+) (Montreal, Canada)</p>\r\n<p class=\"p1\"><a href=\"http://ohton-ensemble.de/en/\" target=\"_blank\">oh ton-ensemble</a> (Oldenburg, Germany)</p>\r\n<p class=\"p1\"><a href=\"http://ensembleparamirabo.com/en/index.php\" target=\"_blank\">Ensemble Paramirabo </a>(Montreal, Canada)<br /><br /><br /></p>",
+    "index": 11
+  },
+  {
+    "_id": {
+      "$oid": "5c6b0f9767676c616605d7ca"
+    },
+    "details": "<p>Duration: 13&rsquo;01</p>\r\n<p>&nbsp;</p>\r\n<p><br />Premiered by <a href=\"https://www.ginsburgh.net/\" target=\"_blank\">Stephane Ginsburg</a>&nbsp;as part of the <a href=\"http://ensemblenikel.com/?page_id=15813\" target=\"_blank\">Tzlil Meudcan Festival</a> at the <a href=\"https://en.fbmc.co.il/\" target=\"_blank\">Felicja Blumental Music Center</a> (Tel Aviv, Israel) July 10th, 2013<br /><br />Performed by <a href=\"http://noambierstone.com/index.php/en/\" target=\"_blank\">Noam Bierstone</a> &amp; <a href=\"https://www.latinoamerica-musica.net/bio/anez.html\" target=\"_blank\">Daniel &Aacute;&ntilde;ez</a> at <a href=\"http://www.newmusicedmonton.ca/\" target=\"_blank\">New Music Edmonton</a> (Edmonton, Canada) October 28th, 2016<br /><br /><br /><span style=\"color: #888888; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Transducer performance interface developed with programming and design support from&nbsp;</span><a style=\"box-sizing: border-box; color: #af0101; text-decoration-line: none; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\" href=\"http://josiahwolfoberholtzer.com/\" target=\"_blank\">Josiah Oberholtzer</a><span style=\"color: #888888; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">.</span><br /><br /></p>",
+    "index": 8,
+    "title": "STIRCRAZER III",
+    "extra_images": [
+      {
+        "public_id": "fh9mzenidecjretzgnxm",
+        "version": 1550854535,
+        "signature": "c4c8e9bd690849aa954b9e0c40d8cf66c72b4379",
+        "format": "jpg",
+        "resource_type": "image",
+        "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550854535/fh9mzenidecjretzgnxm.jpg",
+        "width": 960,
+        "height": 720,
+        "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550854535/fh9mzenidecjretzgnxm.jpg",
+        "_id": {
+          "$oid": "5c7029879280340004d2a3b6"
+        }
+      }
+    ],
+    "image": {
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550854535/dp6zrqweojn9us3prpwz.jpg",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550854535/dp6zrqweojn9us3prpwz.jpg",
+      "resource_type": "image",
+      "format": "jpg",
+      "height": 720,
+      "width": 960,
+      "signature": "9c449b2c02b20ab59dd6794c13b5e7071a68c5ae",
+      "version": 1550854535,
+      "public_id": "dp6zrqweojn9us3prpwz"
+    },
+    "__v": 11,
+    "audio_url": "",
+    "description": "",
+    "subtitle": "solo piano with bass drums + transducers",
+    "video_url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/yFZG7Ll3HWQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "year": "2013"
+  },
+  {
+    "_id": {
+      "$oid": "5c6b317ce77be063f0690bea"
+    },
+    "details": "<p>Duration: 4&rsquo;11</p>\r\n<p>&nbsp;</p>\r\n<p><br />Commissioned by <a href=\"https://www.quatuorbozzini.ca/en/\" target=\"_blank\">Quatuor Bozzini </a>in 2011<br /><br />Released by Quatuor Bozzini on <a href=\"https://www.quatuorbozzini.ca/en/discographie/cqb_1113/\" target=\"_blank\">&Agrave; chacun sa miniature</a> (Label: <a href=\"https://actuellecd.com/en/accueil\" target=\"_blank\">Actuellecd</a>)<br /><br />Performed by <a href=\"http://jackquartet.com/\" target=\"_blank\">JACK Quartet</a> at:<br /><br />&nbsp; &nbsp; <a href=\"https://www.wnmf.ca/\" target=\"_blank\">Winnipeg New Music Festival</a> (Winnipeg, Canada)<br />&nbsp; &nbsp; <a href=\"https://dimennacenter.org/\" target=\"_blank\">DiMenna Centre</a> (New York, USA)<br />&nbsp; &nbsp; <a href=\"http://culturaunam.mx/vertice/\" target=\"_blank\">Festival V&eacute;rtice</a> (Mexico city, Mexico)<br />&nbsp; &nbsp;&nbsp;<a href=\"https://www.kammermusik.org/\" target=\"_blank\">Kammermusik Basel</a>&nbsp;(Basel, Switzerland)<br />&nbsp; &nbsp;&nbsp;<a href=\"https://www.culture.si/en/Depot:Slowind_Festival\" target=\"_blank\">Slowind Music Society</a>&nbsp;(Ljubljana, Slovenia)<br />&nbsp; &nbsp; <a href=\"https://www.92y.org/\" target=\"_blank\">92Y</a>&nbsp;(New York, USA)</p>\r\n<p><br />Performed by <a href=\"https://www.mivosquartet.com/\" target=\"_blank\">Mivos Quartet</a> at <a href=\"https://www.music.northwestern.edu/about/institute-for-new-music/nunc\" target=\"_blank\">NUNC</a> 2014 (Chicago, USA)<br /><br /><br /></p>",
+    "index": 12,
+    "title": "SLIP TRAINS",
+    "extra_images": [],
+    "image": {
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550810999/rnlnvzsbopawpc9e5svs.jpg",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550810999/rnlnvzsbopawpc9e5svs.jpg",
+      "resource_type": "image",
+      "format": "jpg",
+      "height": 575,
+      "width": 865,
+      "signature": "7d29e67825f73022b4e4f030bb16a45c1d4a6dcb",
+      "version": 1550810999,
+      "public_id": "rnlnvzsbopawpc9e5svs"
+    },
+    "__v": 0,
+    "audio_url": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/90539549&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "description": "<p>&nbsp;</p>\r\n<p>Many years ago I came across an exhibit of drawings in a small gallery in Brooklyn. Running the length of a back wall, what seemed at first glance to be a mapping of flesh &ndash; intertwined nerve endings and connective tissues &ndash; were actually topographical sketches of urban landscapes.&nbsp; There was an eerie quality to the combined intricacy and viscerality of these sketches. Struck by the image as an imaginative backdrop, I envision this piece as a webbing of fine matte wires that illuminate in turn, swelling to the surface of a tangled system. It also probes a temporal surface tension &ndash; a frenetic landscape that feels a kind of subterraneal time under its dirt.<br /><br /></p>",
+    "subtitle": "string quartet",
+    "video_url": "",
+    "year": "2011"
+  },
+  {
+    "_id": {
+      "$oid": "5c6b3209e77be063f0690beb"
+    },
+    "details": "<p>Duration: 13&rsquo;49</p>\r\n<p>&nbsp;</p>\r\n<p><br />Commissioned by <a href=\"https://www.quatuorbozzini.ca/en/\" target=\"_blank\">Quatuor Bozzini</a><br /><br />Performed by Quatuor Bozzini at Raum f&uuml;r kultur der Dresdner Bank (Frankfurt, Germany) August 31st, 2005<br /><br /><br /><br /></p>",
+    "index": 14,
+    "title": "EXITS + DEFENCES",
+    "extra_images": [],
+    "image": {
+      "public_id": "r8aoxvmvgp066toiyu8m",
+      "version": 1550529041,
+      "signature": "6f0d7cac332989bc0864805b24b2bdf527e54496",
+      "width": 896,
+      "height": 705,
+      "format": "jpg",
+      "resource_type": "image",
+      "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550529041/r8aoxvmvgp066toiyu8m.jpg",
+      "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550529041/r8aoxvmvgp066toiyu8m.jpg"
+    },
+    "__v": 0,
+    "audio_url": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/11513078&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
+    "description": "<p>&nbsp;</p>\r\n<p>The piece&rsquo;s title references an illustration by Guy Debord that maps, in his words, the &ldquo;atmospheric unities of a city.&rdquo; A city map is cut into regions experienced as having distinct unities. The &ldquo;mentally experienced&rdquo; distance between these areas is visualized by spreading out the pieces of the map, with directional arrows drawn between that illustrate the most active circulations of foot traffic. All other space between is left out so as to isolate only these features. With remarkable economy, the image portrays a web of social conditions that figure into the identities of most cities. Though providing less of a strict influence, this image and its related ideas worked strongly as a backdrop through which the piece developed.</p>",
+    "subtitle": "string quartet",
+    "video_url": "",
+    "year": "2005"
+  }
+]

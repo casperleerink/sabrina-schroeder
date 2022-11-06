@@ -1,0 +1,36 @@
+---
+import type { SanityImg } from "../lib/types";
+
+export interface Props {
+  link: string;
+  title: string;
+  subtitle?: string;
+  image: SanityImg;
+  portrait?: boolean;
+  smallTitle?: boolean;
+}
+const { link, title, subtitle, image, portrait, smallTitle } = Astro.props;
+---
+
+<a href={link} class="block bg-gray-50 shadow rounded overflow-hidden group">
+  <div
+    class={`relative group-hover:opacity-70 transition-all ${
+      portrait ? "aspect-[3/4]" : "aspect-video"
+    }`}
+  >
+    <img
+      loading="lazy"
+      alt={title}
+      src={image.asset.url}
+      width={image.asset.metadata.dimensions.width}
+      height={image.asset.metadata.dimensions.height}
+      class="w-full h-full object-cover"
+    />
+  </div>
+  <div class="p-4">
+    <h3 class="text-sm text-gray-800/40 font-medium">{subtitle}</h3>
+    <h2 class={`font-medium uppercase ${smallTitle ? "text-lg" : "text-2xl"}`}>
+      {title}
+    </h2>
+  </div>
+</a>

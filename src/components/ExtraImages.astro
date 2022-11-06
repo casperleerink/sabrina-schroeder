@@ -1,0 +1,48 @@
+---
+export interface Props {
+  extra_images: {
+    asset: {
+      url: string;
+      metadata: {
+        dimensions: {
+          width: number;
+          height: number;
+        };
+      };
+    };
+  }[];
+}
+const { extra_images } = Astro.props;
+---
+
+<div>
+  <div class="carousel w-full scrollbar-hide scroll-mt-40">
+    {
+      extra_images.map((img, idx) => (
+        <div id={`${idx}`} class="carousel-item w-full scroll-mt-60">
+          <div class="w-full aspect-square">
+            <img
+              src={img.asset.url}
+              alt=""
+              width={img.asset.metadata.dimensions.width}
+              height={img.asset.metadata.dimensions.height}
+              class="w-full h-full object-cover"
+            />
+          </div>
+        </div>
+      ))
+    }
+  </div>
+  <div class="flex justify-center w-full py-2 gap-2">
+    {
+      extra_images.map((img, idx) => (
+        <a
+          href={`#${idx}`}
+          class="bg-gray-50 hover:bg-gray-100 transition-colors w-8 h-8 grid place-items-center text-gray-800 rounded text-xs"
+        >
+          {idx + 1}
+        </a>
+      ))
+    }
+  </div>
+</div>

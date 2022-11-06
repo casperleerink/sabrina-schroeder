@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "5c6c72f636f7646f2476a69f"
+  },
+  "description": "<p>Resident Composition Faculty at EQ: Evolution of the String Quartet (2019); Ensemble Evolution (2018); and Ensemble Evolution + Chamber Music (2017) programs at the Banff Centre for Arts and Creativity (Banff, Canada)</p>",
+  "link": "https://www.banffcentre.ca/programs/eq-evolution-string-quartet",
+  "title": "Banff Summer Music Programs",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550802810/xtzs8qcjjvbkmf2v4xkz.jpg",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550802810/xtzs8qcjjvbkmf2v4xkz.jpg",
+    "resource_type": "image",
+    "format": "jpg",
+    "height": 611,
+    "width": 935,
+    "signature": "419218d922f5951e2e75310e237f1a4efd187223",
+    "version": 1550802810,
+    "public_id": "xtzs8qcjjvbkmf2v4xkz"
+  },
+  "__v": 0,
+  "textDate": "Summer 2017/ 2018/ 2019"
+},{
+  "_id": {
+    "$oid": "5c6c760f071bc36f75dab569"
+  },
+  "description": "<p>2018 Resident Fellow at <a href=\"https://civitella.org/\" target=\"_blank\">Civitella Ranieri</a> (Umbria, Italy)</p>",
+  "link": "https://civitella.org/fellows/",
+  "title": "Civitella Ranieri Foundation",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1551049993/e5thxue54xo2h2nwkd2n.jpg",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1551049993/e5thxue54xo2h2nwkd2n.jpg",
+    "resource_type": "image",
+    "format": "jpg",
+    "height": 675,
+    "width": 1200,
+    "signature": "23888c5b3eb2cc099eb8ff290650f36f175fad28",
+    "version": 1551049993,
+    "public_id": "e5thxue54xo2h2nwkd2n"
+  },
+  "__v": 0,
+  "textDate": "2018"
+},{
+  "_id": {
+    "$oid": "5c6c796c7d1f1d6fb1fa3a78"
+  },
+  "description": "<p>2016/2018 Composer in Residence at <a href=\"https://www.swr.de/swrclassic/experimentalstudio/swrclassic-experimentalstudio-100.html\" target=\"_blank\">Experimentalstudio</a> des SWR Freiburg (Freiburg, Germany)<br /><br /></p>",
+  "link": "https://www.swr.de/swrclassic/experimentalstudio/swr-experimentalstudio-new-york-time-spans-jack-quartet-lara-schroeder-haas,event-swr-488.html",
+  "title": "Experimentalstudio des SWR",
+  "image": {
+    "public_id": "dubb2apos1nc4vazqutq",
+    "version": 1550612845,
+    "signature": "9319148cdf82a50fcc7f908d9cc5b9c04f470ebd",
+    "width": 512,
+    "height": 303,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550612845/dubb2apos1nc4vazqutq.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550612845/dubb2apos1nc4vazqutq.jpg"
+  },
+  "__v": 0,
+  "textDate": "2016/ 2018"
+},{
+  "_id": {
+    "$oid": "5c72e027f6dd820004451b6f"
+  },
+  "description": "<p>Full-year residency awarded with funding from the <a href=\"https://canadacouncil.ca/\" target=\"_blank\">Canada Council of the Arts</a>&nbsp;(Paris, France)</p>",
+  "link": "https://www.citedesartsparis.net/",
+  "title": "Cité Internationale des Arts",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1551050109/lnkb1xjkwhqkefnxu6a5.jpg",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1551050109/lnkb1xjkwhqkefnxu6a5.jpg",
+    "resource_type": "image",
+    "format": "jpg",
+    "height": 949,
+    "width": 1410,
+    "signature": "3aefb8d2058c22cd60ceeef83f4489819f2226fb",
+    "version": 1551050109,
+    "public_id": "lnkb1xjkwhqkefnxu6a5"
+  },
+  "__v": 0,
+  "textDate": "2016"
+},{
+  "_id": {
+    "$oid": "5c72e107f6dd820004451b70"
+  },
+  "description": "<p>Three-month independent residency awarded by the Banff Centre for Arts and Creativity (Banff, Canada)</p>",
+  "link": "https://www.banffcentre.ca/department/leighton-artists-studios",
+  "title": "Leighton Studios at the Banff Centre",
+  "image": {
+    "public_id": "bddlnhraw5rsnxe1dok3",
+    "version": 1551032583,
+    "signature": "ff428d09d34b33c5c9ac93eacf7daa2529308a20",
+    "width": 940,
+    "height": 629,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1551032583/bddlnhraw5rsnxe1dok3.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1551032583/bddlnhraw5rsnxe1dok3.jpg"
+  },
+  "__v": 0,
+  "textDate": "Winter 2007"
+},{
+  "_id": {
+    "$oid": "5c72e1fbf6dd820004451b71"
+  },
+  "description": "<p>Six-week residencies awarded by <a href=\"https://www.artscape.ca/\" target=\"_blank\">Toronto Artscape</a> at Gibraltar Point studios on Toronto Island (Toronto, Canada)</p>",
+  "link": "http://artscapegibraltarpoint.ca/",
+  "title": "Gibraltar Point Residency",
+  "image": {
+    "public_id": "gymk6ofxafipcq8fb11l",
+    "version": 1551032827,
+    "signature": "e9642166318084767dfd62bb4ec1d8673863b880",
+    "width": 700,
+    "height": 467,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1551032827/gymk6ofxafipcq8fb11l.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1551032827/gymk6ofxafipcq8fb11l.jpg"
+  },
+  "__v": 0,
+  "textDate": "2008/ 2009"
+},{
+  "_id": {
+    "$oid": "5d26250012e51b0004507f3d"
+  },
+  "description": "<p>2019-2021 Composer in Residence&nbsp;at <a href=\"http://www.musiconmain.ca/\">Music on Main</a> (Vancouver, Canada)</p>",
+  "link": "http://www.musiconmain.ca/learn/composer-in-residence/",
+  "title": "Music on Main",
+  "image": {
+    "public_id": "xvjplzxnosvyejjyoabv",
+    "version": 1562780928,
+    "signature": "e5ef7ab53ef7eee24d5ff02df5b5e83a648275db",
+    "width": 380,
+    "height": 153,
+    "format": "png",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1562780928/xvjplzxnosvyejjyoabv.png",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1562780928/xvjplzxnosvyejjyoabv.png"
+  },
+  "__v": 0,
+  "textDate": "Current 2019-2021"
+}]

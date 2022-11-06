@@ -1,0 +1,38 @@
+---
+import Screen from "../components/Screen.astro";
+import Layout from "../layouts/Layout.astro";
+import { useSanityClient } from "astro-sanity";
+import type { SanityImg } from "../lib/types";
+import SanityPortableText from "../components/SanityPortableText.astro";
+
+interface Bio {
+  title: string;
+  description: string;
+  image?: SanityImg;
+}
+const query = /* groq */ `*[_type == "bio" && title == 'BIO'][0] {
+  title,
+  description,
+  image{asset->{metadata{dimensions}, url}},
+}`;
+const bio: Bio = await useSanityClient().fetch(query);
+console.log(bio);
+---
+
+<Layout title="Sabrina Schroeder - About" description="">
+  <Screen className={`mt-40 lg:mt-52 mb-40 text-gray-500`}>
+    <div class="grid grid-cols-1 md:grid-cols-2 rounded gap-4 md:gap-8">
+      <div class="space-y-8">
+        <h1 class="text-4xl font-bold uppercase">{bio.title}</h1>
+        <div class="sanity-prose">
+          <SanityPortableText portableText={bio.description} />
+        </div>
+      </div>
+      <div class="w-full">
+        {bio.image && <img src={bio.image.asset.url} class="w-full rounded" />}
+
+        <!-- <img src="/" /> -->
+      </div>
+    </div>
+  </Screen>
+</Layout>

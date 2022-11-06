@@ -1,0 +1,9 @@
+---
+export interface Props {
+  iframe: string;
+}
+
+const { iframe } = Astro.props;
+---
+
+<Fragment set:html={iframe} />

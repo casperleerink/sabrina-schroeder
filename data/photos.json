@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "5bc788e8dd0df975948a72bd"
+  },
+  "photographer": "Justin Hoke",
+  "image": {
+    "public_id": "qeszkhisgqupt9mtlkyi",
+    "version": 1539803371,
+    "signature": "f2d4d73088740255d1ae14c717a505019677e029",
+    "width": 2691,
+    "height": 2211,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539803371/qeszkhisgqupt9mtlkyi.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539803371/qeszkhisgqupt9mtlkyi.jpg"
+  },
+  "__v": 0,
+  "imageType": "headshot"
+},{
+  "_id": {
+    "$oid": "5bc791488ee86b770f25cb65"
+  },
+  "imageType": "headshot",
+  "photographer": "Justin Hoke",
+  "image": {
+    "public_id": "esblycivtcyarcpcocvl",
+    "version": 1539805516,
+    "signature": "04052d11f621e248556c55cb8c674882a40cb5f0",
+    "width": 2712,
+    "height": 2224,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539805516/esblycivtcyarcpcocvl.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539805516/esblycivtcyarcpcocvl.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5bc791658ee86b770f25cb66"
+  },
+  "imageType": "headshot",
+  "photographer": "Marco Giugliarelli for Civitella Ranieri Foundation",
+  "image": {
+    "public_id": "roz1zn6db0xpujuy0yiv",
+    "version": 1539805545,
+    "signature": "72a23b192bef531460a061487f1e3c445abb52a9",
+    "width": 4000,
+    "height": 3000,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539805545/roz1zn6db0xpujuy0yiv.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539805545/roz1zn6db0xpujuy0yiv.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5bc791958ee86b770f25cb67"
+  },
+  "imageType": "action_shot",
+  "photographer": "Dimitri Juric",
+  "image": {
+    "public_id": "us0w4cmiuwbysjhd311i",
+    "version": 1539805590,
+    "signature": "ff0a477e4886bc341472813948fad2e43e98bca2",
+    "width": 2160,
+    "height": 1440,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539805590/us0w4cmiuwbysjhd311i.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539805590/us0w4cmiuwbysjhd311i.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5bc791b38ee86b770f25cb68"
+  },
+  "imageType": "action_shot",
+  "photographer": "Max Schulze",
+  "image": {
+    "public_id": "istn7il5om71qd84ftqc",
+    "version": 1539805620,
+    "signature": "2e9a04fc96e18111f995095c4098b8ef8bf3359c",
+    "width": 2048,
+    "height": 1536,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539805620/istn7il5om71qd84ftqc.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539805620/istn7il5om71qd84ftqc.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5bc791cb8ee86b770f25cb69"
+  },
+  "imageType": "action_shot",
+  "photographer": "Ross Karre",
+  "image": {
+    "public_id": "levla4dfgl4qqvguh5ek",
+    "version": 1539805645,
+    "signature": "2490ae07524f34980e3a278b69bc0386e0a32a30",
+    "width": 1442,
+    "height": 1596,
+    "format": "png",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539805645/levla4dfgl4qqvguh5ek.png",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539805645/levla4dfgl4qqvguh5ek.png"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5bc792368ee86b770f25cb6a"
+  },
+  "imageType": "action_shot",
+  "photographer": "Dimitri Juric",
+  "image": {
+    "public_id": "n8aivkoztiwx8gum1nsh",
+    "version": 1539805751,
+    "signature": "272000c725195451a75b175a49331b15434df529",
+    "width": 1764,
+    "height": 1301,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539805751/n8aivkoztiwx8gum1nsh.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539805751/n8aivkoztiwx8gum1nsh.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5bc7924d8ee86b770f25cb6b"
+  },
+  "imageType": "action_shot",
+  "photographer": "Alistair Henning",
+  "image": {
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1550443966/ljcir7pmv7ohvfozh548.jpg",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1550443966/ljcir7pmv7ohvfozh548.jpg",
+    "resource_type": "image",
+    "format": "jpg",
+    "height": 3888,
+    "width": 5184,
+    "signature": "67cfd566b5c24324510f334925f41032766c62c7",
+    "version": 1550443966,
+    "public_id": "ljcir7pmv7ohvfozh548"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5bc792688ee86b770f25cb6c"
+  },
+  "imageType": "action_shot",
+  "photographer": "Phillip Schulze",
+  "image": {
+    "public_id": "tltr0pz170zvtzws7tl5",
+    "version": 1539805806,
+    "signature": "0f163a23c9556c094a628d5d0e85689a0bb05d8e",
+    "width": 4000,
+    "height": 3000,
+    "format": "jpg",
+    "resource_type": "image",
+    "url": "http://res.cloudinary.com/casperleerink/image/upload/v1539805806/tltr0pz170zvtzws7tl5.jpg",
+    "secure_url": "https://res.cloudinary.com/casperleerink/image/upload/v1539805806/tltr0pz170zvtzws7tl5.jpg"
+  },
+  "__v": 0
+}]

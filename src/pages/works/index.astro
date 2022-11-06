@@ -1,0 +1,44 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Screen from "../../components/Screen.astro";
+import Card from "../../components/Card.astro";
+import { useSanityClient } from "astro-sanity";
+import type { SanityImg } from "../../lib/types";
+
+interface Work {
+  title: string;
+  slug: {
+    current: string;
+  };
+  subtitle?: string;
+  image: SanityImg;
+}
+
+const query = /* groq */ `*[_type == "work"] {
+  title,
+  slug,
+  subtitle,
+  image{asset->{metadata{dimensions}, url}}
+} | order(date desc)`;
+const works: Work[] = await useSanityClient().fetch(query);
+---
+
+<Layout title="Works - Sabrina Schroeder" description="">
+  <Screen className={`mt-40 text-gray-500`}>
+    <div>
+      <h1 class="text-4xl uppercase font-bold pb-4">Selected Works</h1>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {
+          works.map((work) => (
+            <Card
+              title={work.title}
+              subtitle={work.subtitle}
+              image={work.image}
+              link={`/works/${work.slug.current}`}
+            />
+          ))
+        }
+      </div>
+    </div>
+  </Screen>
+</Layout>

@@ -1,0 +1,56 @@
+---
+import Screen from "../components/Screen.astro";
+import Layout from "../layouts/Layout.astro";
+import { useSanityClient } from "astro-sanity";
+import SanityPortableText from "../components/SanityPortableText.astro";
+
+interface Bio {
+  title: string;
+  description: string;
+}
+const query = /* groq */ `*[_type == "bio" && title != 'BIO'] {
+  title,
+  description,
+  image{asset->{metadata{dimensions}, url}},
+}`;
+const bios: Bio[] = await useSanityClient().fetch(query);
+
+const query2 = /* groq */ `*[_type == "materials" && public == true] {
+  title,
+  file{asset->{url}}
+}`;
+
+const materials: any[] = await useSanityClient().fetch(query2);
+---
+
+<Layout title="Sabrina Schroeder - About" description="">
+  <Screen className={`mt-40 mb-40 text-gray-500`}>
+    <h2 class="text-3xl font-bold uppercase">Download Press Materials</h2>
+    <div class="flex space-x-4 py-8">
+      {
+        materials.map((material) => (
+          <a
+            href={material.file.asset.url}
+            target="_blank"
+            rel="noferrer noopener"
+            class="inline-block px-8 py-2 bg-gray-800 text-white hover:bg-gray-500 transition-colors rounded"
+          >
+            {material.title}
+          </a>
+        ))
+      }
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-8">
+      {
+        bios.map((bio) => (
+          <div class="space-y-4">
+            <h3 class="text-2xl font-bold uppercase">{bio.title}</h3>
+            <div class="sanity-prose">
+              <SanityPortableText portableText={bio.description} />
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </Screen>
+</Layout>

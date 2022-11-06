@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .sanity-prose {
+    @apply text-sm;
+  }
+  .sanity-prose p {
+    @apply mt-4;
+  }
+  .sanity-prose a {
+    @apply text-gray-800 hover:opacity-70 transition-opacity;
+  }
+  .sanity-prose h2 {
+    @apply mt-8 text-2xl font-bold;
+  }
+  .sanity-prose h3 {
+    @apply mt-6 text-base font-bold;
+  }
+  .sanity-prose h5 {
+    @apply mt-6 text-base font-bold;
+  }
+}
+
+@layer utilities {
+  /* For Webkit-based browsers (Chrome, Safari and Opera) */
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* For IE, Edge and Firefox */
+  .scrollbar-hide {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+}

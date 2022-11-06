@@ -1,0 +1,49 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Screen from "../../components/Screen.astro";
+import Card from "../../components/Card.astro";
+import { useSanityClient } from "astro-sanity";
+import type { SanityImg } from "../../lib/types";
+import { format } from "date-fns";
+
+interface Performance {
+  title: string;
+  slug: {
+    current: string;
+  };
+  date: string;
+  image: SanityImg;
+}
+
+const query = /* groq */ `*[_type == "performance"] {
+  title,
+  slug,
+  image{asset->{metadata{dimensions}, url}},
+  date,
+} | order(date desc)`;
+const works: Performance[] = await useSanityClient().fetch(query);
+---
+
+<Layout title="Performances - Sabrina Schroeder" description="">
+  <Screen className={`mt-40 text-gray-500`}>
+    <div>
+      <h1 class="text-4xl uppercase font-bold pb-4">Solo Performances</h1>
+      <div
+        class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4"
+      >
+        {
+          works.map((work) => (
+            <Card
+              title={work.title}
+              image={work.image}
+              subtitle={format(new Date(work.date), "MMMM yyyy")}
+              link={`/performances/${work.slug.current}`}
+              portrait
+              smallTitle
+            />
+          ))
+        }
+      </div>
+    </div>
+  </Screen>
+</Layout>

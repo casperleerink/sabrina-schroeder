@@ -1,0 +1,45 @@
+---
+import Screen from "../components/Screen.astro";
+import BigCard from "../components/BigCard.astro";
+import Layout from "../layouts/Layout.astro";
+import { useSanityClient } from "astro-sanity";
+import type { SanityImg } from "../lib/types";
+
+const query = /* groq */ `*[_type == "workshop"] {
+  title,
+  textDate,
+  description,
+  image{asset->{metadata{dimensions}, url}},
+  link
+}`;
+
+interface Workshop {
+  title: string;
+  textDate?: string;
+  description: string;
+  image: SanityImg;
+  link: string;
+}
+
+const workshops: Workshop[] = await useSanityClient().fetch(query);
+---
+
+<Layout title="Sabrina Schroeder - Workshops / Residencies" description="">
+  <Screen className={`mt-40 text-gray-500`}>
+    <h1 class="text-4xl font-bold uppercase">Workshops / Residencies</h1>
+    <div class="space-y-12 py-12">
+      {
+        workshops.map((workshop) => (
+          <BigCard
+            title={workshop.title}
+            date={workshop.textDate}
+            description={workshop.description}
+            image={workshop.image}
+            link={workshop.link}
+            blank
+          />
+        ))
+      }
+    </div>
+  </Screen>
+</Layout>

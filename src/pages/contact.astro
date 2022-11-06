@@ -1,0 +1,31 @@
+---
+import Screen from "../components/Screen.astro";
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Sabrina Schroeder - About" description="">
+  <Screen className={`mt-40 lg:mt-52 mb-40 text-gray-500`}>
+    <div class="grid grid-cols-1 md:grid-cols-2 rounded gap-4 md:gap-8">
+      <div class="space-y-8">
+        <div>
+          <a
+            href="/materials"
+            class="bg-gray-800 text-white hover:bg-gray-500 transition-colors px-6 py-2 rounded"
+            >Press Materials</a
+          >
+        </div>
+        <div>
+          <h2 class="font-bold">Email:</h2>
+          <p>sabrina[dot]schroeder[at]gmail[dot]com</p>
+        </div>
+      </div>
+      <div>
+        <img
+          src="https://cdn.sanity.io/images/5f3g5jjg/production/6266cdcdf2b9d07cdd101a2a31fe507b1bdc26e6-5184x3888.jpg"
+          alt="Sabrina Performing"
+          class="w-full rounded"
+        />
+      </div>
+    </div>
+  </Screen>
+</Layout>

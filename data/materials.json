@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5d26385106e43103bbedb30b"
+  },
+  "title": "Biographies",
+  "file": {
+    "filename": "eb590ee982db9eba15322d3650a22ad4.pdf",
+    "size": 20836,
+    "mimetype": "application/pdf",
+    "originalname": "bios.pdf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5d26388b06e43103bbedb30c"
+  },
+  "title": "PHOTOS",
+  "file": {
+    "filename": "fb0b6fe1d2d75934550ae15a7cb5844e.zip",
+    "size": 23613817,
+    "mimetype": "application/zip",
+    "originalname": "iAVcVwIN6Vjkx0pg.zip"
+  },
+  "__v": 0
+}]
